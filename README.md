@@ -12,3 +12,7 @@ We will:
     Transfer Learning: build new layers on top of the pretrained Xception model using Keras and Tensorflow
     Evaluate our model on the test set
     Run the model on new dog images anywhere from the web! Just enter the image URL and you are good to go!!
+    
+    
+    ![screenshot from 2018-08-30 18-32-05](https://user-images.githubusercontent.com/29462447/44853289-29655480-ac83-11e8-8d00-a3e2009c6573.png)
+
